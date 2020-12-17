@@ -1,6 +1,6 @@
 # Codezi-HCJ-Online-Code-Editor
 
-## Codezi-HCJ is an online code editor build in ReactJS. The website allows you to write code in the browser, and see the results of it as you build. 
+### Codezi-HCJ is an online code editor build in ReactJS. The website allows you to write code in the browser, and see the results of it as you build. 
 
 <br>
 
