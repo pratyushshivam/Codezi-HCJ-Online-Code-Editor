@@ -8,15 +8,14 @@
 
 <br>
 
-## Features 
+# Features 
 
-### ~~~
-1. Specific colors for Html tag names.
-2. Error Detection.
-3. Automatically loads the code every 250ms.
-4. Collapse and expand any editor with a single click.
-5. Line numbers displayed on the left.
-### ~~~
+
+## 1. Specific colors for Html tag names.
+## 2. Error Detection.
+## 3. Automatically loads the code every 250ms.
+## 4. Collapse and expand any editor with a single click.
+## 5. Line numbers displayed on the left.
 
 
 
