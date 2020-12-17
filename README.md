@@ -18,7 +18,12 @@
  <h3>5. Line numbers displayed on the left.<h3>
 
 
+<br>
+
 ## Screen
+
+<br>
+
 
 ![Screen](Screenshot/screen2.png)
 
