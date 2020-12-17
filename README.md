@@ -4,10 +4,11 @@
 
 <br>
 
+## Features 
 
 ~~~
 
-# Features 
+
 1. Specific colors for Html tag names.
 2. Error Detection.
 3. Automatically loads the code every 250ms.
