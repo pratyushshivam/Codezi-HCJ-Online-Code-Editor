@@ -11,3 +11,12 @@ Automatically loads the code every 250ms.
 Collapse and expand any editor with a single click.
 Line numbers displayed on the left.
 
+
+~~~
+
+1. A numbered list
+    1. A nested numbered list
+    2. Which is numbered
+2. Which is numbered
+
+~~~
