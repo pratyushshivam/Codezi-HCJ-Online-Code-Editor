@@ -20,6 +20,6 @@
 
 ## Screen
 
-![Screen](Screenshot/screen.png)
+![Screen](Screenshot/screen2.png)
 
 
