@@ -4,19 +4,18 @@
 
 <br>
 
+
+~~~
+
 # Features 
-Specific colors for Html tag names.
-Error Detection.
-Automatically loads the code every 250ms.
-Collapse and expand any editor with a single click.
-Line numbers displayed on the left.
-
-
-~~~
-
-1. A numbered list
-    1. A nested numbered list
-    2. Which is numbered
-2. Which is numbered
+1. Specific colors for Html tag names.
+2. Error Detection.
+3. Automatically loads the code every 250ms.
+4. Collapse and expand any editor with a single click.
+5. Line numbers displayed on the left.
 
 ~~~
+
+
+
+
