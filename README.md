@@ -11,8 +11,8 @@
 ## Features 
 
 
-<h3> 1. Specific colors for Html tag names. </h3>
- <h3> 2. Error Detection.</h3>
+<h3> 1. Specific colors for Html tag names and Css attributes.</h3>
+ <h3> 2. Text Highlight Error Detection.</h3>
 <h3> 3. Automatically loads the code every 250ms.<h3>
  <h3>4. Collapse and expand any editor with a single click.<h3>
  <h3>5. Line numbers displayed on the left.<h3>
